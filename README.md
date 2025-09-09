@@ -1,2 +1,2 @@
 # firstAPI
-my first API, with help from copiolit
+my first API, with help from copoilt
